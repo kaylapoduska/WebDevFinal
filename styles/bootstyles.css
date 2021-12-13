@@ -1,0 +1,54 @@
+/*Kayla Poduska, last modified 12/13/21*/
+
+/*custom background*/
+body{
+    background-color: #858181;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+.general{
+    background-color: #cccccc;
+    border: solid 2px white;
+    /* position: absolute; */
+}
+
+/*custom div positioning styles*/
+.nav{
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 125px;
+}
+
+.tab{
+    top: 139px;
+    left: 5px;
+    right: 5px;
+    bottom: 64px;
+}
+
+.foot{
+    bottom: 5px;
+    left: 5px;
+    right: 5px;
+    height: 35px; 
+}
+
+/*custom styles for design*/
+.myHeader{
+    text-align:center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.myFooter{
+    text-align:center;
+    color: rgb(22, 22, 133);
+    font-style: italic;
+}
+
+.myFont{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    text-align:center;
+}

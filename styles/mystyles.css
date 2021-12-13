@@ -1,0 +1,37 @@
+/*Kayla Poduska, last modified 12/13/21*/
+
+ul {
+    font-weight: normal;
+    color: #212529;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+
+
+/*custom styles index and about page*/
+.bold {
+    font-weight: bold;
+    color:rgb(6, 6, 119);
+}
+
+.italic{
+    font-style:italic;
+}
+
+.center{
+    text-align:center;
+    color: rgb(6,6,119)
+}
+
+.myFont{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:large;
+}
+
+.myHeader{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
